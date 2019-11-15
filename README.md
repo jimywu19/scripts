@@ -1,0 +1,2 @@
+# scripts
+shell ,bat, etc 
